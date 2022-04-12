@@ -1,31 +1,34 @@
-# title(){return this.options.title||this.options.name}
+# Notes App 
 
-Quick start:
+Part of Scrimba Web Development Career Path Course project from module 11 React Basics
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+## Tech/Framework objectives
 
-## Development
+dependencies:
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+- [x] nanoid
+- [x] react-split
+- [x] react-mde
+- [x] showdown
 
-```
-$ yarn watch # npm run watch
-```
+methods:
+- [x] React.useState
+- [x] React.useEffect
 
-## Supporting Scrimba
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+## Demo
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
+![demo](notes-appdemo.gif)
 
-	It would also mean the world to us if you share the courses.  
+### Getting Started with Create React App
 
-Happy Coding!
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
